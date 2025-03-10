@@ -1,0 +1,8 @@
+.active .nav-text {
+  color: #fff;
+}
+
+.active .nav-indicator {
+  width: 110px;
+  background-color: #fff;
+}
